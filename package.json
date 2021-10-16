@@ -1,0 +1,11 @@
+{
+  "name": "three-event",
+  "version": "0.0.1",
+  "description": "mouse event for three.js",
+  "main": "src/event.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "linbingquan",
+  "license": "ISC"
+}
